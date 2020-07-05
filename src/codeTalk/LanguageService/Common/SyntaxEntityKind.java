@@ -1,0 +1,26 @@
+package codeTalk.LanguageService.Common;
+
+public enum SyntaxEntityKind {
+    CodeFile,
+    Package,
+    Class,
+    Interface,
+    Function,
+    Variable,
+    Property,
+    Block,
+    Comment,
+    Error,
+    Delegate,
+    Struct, 
+    Enum,
+    If,
+    Else,
+    Try,
+    Catch,
+    For,
+    ForEach,
+    While,
+    Switch,
+    Case, 
+}
