@@ -54,13 +54,13 @@
       <key
             commandId="CodeTalk.commands.FunctionView"
             contextId="org.eclipse.ui.contexts.window"
-            sequence="M1+6"
+            sequence="M1+5"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration">
       </key>
        <key
             commandId="CodeTalk.commands.SummaryView"
             contextId="org.eclipse.ui.contexts.window"
-            sequence="M1+7"
+            sequence="M1+6"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration">
       </key>
        <key
