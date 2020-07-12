@@ -32,10 +32,10 @@ This code implements a subset of proposed CodeTalk functionality for **Eclipse (
 * Ctrl 5 for Function View
 * Ctrl 6 for Summary View
 * Ctrl 8 for Context View
-* Ctrl 9 for Move to Context
+* Ctrl 9 for Move to Context<br/>
 The shortcut's can be changed easily in the plugin.xml.<br/><br/>
  
-**This project welcomes contributions and suggestions. Please raise a pull-request if you want to contribute to this repository**
+# This project welcomes contributions and suggestions. Please raise a pull-request if you want to contribute to this repository
 
 
 **Prerequisites / Environment Setup**
