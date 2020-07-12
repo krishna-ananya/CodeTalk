@@ -58,7 +58,6 @@ Project Setup Using the wizard:
 	* Plugin.xml 
 	* build.properties
 
-
 How to build project to a plugin jar
 * Right Click on the project in eclipse, and select export
 * The Export wizard opens up, select the option plug-in development -> Deployeable-plugins-and fragments
@@ -69,3 +68,4 @@ How to use the plugin with eclipse
 * Copy the jar created above to the path  ../eclipse/plugins/
 * Restart eclipse and the Plugin is up and running.
 
+<br/>CodeTalk jar is created and is available in directory CodeTalk/dist/plugins/CodeTalk_1.0.0.202007130336.jar
