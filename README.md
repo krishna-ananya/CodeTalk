@@ -14,7 +14,7 @@ This code implements a subset of proposed CodeTalk functionality for **Eclipse (
 		- Example:![Snapshot of Summary View](https://github.com/krishna-ananya/CodeTalk/blob/master/snapshots/summary%20view.png)
 	
 
- Context View 
+**Context View** 
 		- Gives the heirarchical context of the cursor position in the java file example: FileName,Class Name at line .. , Function name at line .. , Block (try,while,if,for etc..) at line ..
 		- Example:![Snapshot of Context View](https://github.com/krishna-ananya/CodeTalk/blob/master/snapshots/context%20view.png)
 	
@@ -28,10 +28,12 @@ This code implements a subset of proposed CodeTalk functionality for **Eclipse (
 		- Moves to the parent block , based on the cursor position.
 		- Example:![Snapshot of move to context](https://github.com/krishna-ananya/CodeTalk/blob/master/snapshots/movetoContext.png)
 
-Keyboard shortcuts for codetalk menu
-	- Ctrl 6 for Function View
-	- Ctrl 7 for Summary View
+**Keyboard shortcuts **
+	- Ctrl 5 for Function View
+	- Ctrl 6 for Summary View
+	- Ctrl 8 for Context View
 	- Ctrl 9 for Move to Context
+The shortcut's can be changed easily in the plugin.xml.
  
 **This project welcomes contributions and suggestions. Please raise a pull-request if you want to contribute to this repository**
 
